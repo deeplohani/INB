@@ -1,3 +1,5 @@
-ncxkjcd
-fcdfvdv
-dfd
+fuction (A,B)
+
+{
+
+}
